@@ -1,0 +1,11 @@
+tcert01.der Thawte Personal Basic CA root cert
+tcert02.der Thawte Personal Freem'l DSA CA root cert
+tcert03.der Thawte Personal Freemail CA root cert
+tcert04.der Thawte Personal Premium CA root cert
+tcert05.der Thawte Premium Server CA root cert
+tcert06.der Thawte Server CA root cert
+vcert01.der Verisign Class 1 Primary CA root (alt)
+vcert02.der Verisign Class 2 Primary CA root (alt)
+vcert03.der Verisign Class 3 Primary CA root (alt)
+vcert04.der Verisign Class 4 Primary CA root (alt)
+vcert05.der Verisign timestamping service root cert
